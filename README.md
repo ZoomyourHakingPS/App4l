@@ -28,7 +28,7 @@ Building tools for **iOS 12.5.8**.
 
 - **Steam:** [AmethystUncoverLeminlemizNugget](https://steamcommunity.com/id/AmethystUncoverLeminlemizNugget/)
 - **GitHub:** [@App4l](https://github.com/ZoomYourHakingPS)
-- **Telegram:** (добавь, если есть)
+- **Telegram:** @kega_007
 
 ---
 
