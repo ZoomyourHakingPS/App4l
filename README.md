@@ -9,8 +9,6 @@ Building tools for **iOS 12.5.8**.
 ## 🚀 Projects
 
 - [**ios-deb-installer**](https://github.com/ZoomYourHakingPS/ios-deb-installer) — Install `.deb` on jailbroken iPhone via SSH
-- [**NaLavke**](https://github.com/ZoomYourHakingPS/NaLavke) — iOS marketplace app
-- [**Nalavkeweb**](https://github.com/ZoomYourHakingPS/Nalavkeweb) — Web version
 
 ---
 
